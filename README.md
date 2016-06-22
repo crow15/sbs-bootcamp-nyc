@@ -90,7 +90,7 @@ git clone https://github.com/jerwallace/sbs-bootcamp-nyc.git
 Next, run the following commands in your new directory.
 
 ```
-cd sbs-bootcamp
+cd sbs-bootcamp-nyc
 npm install
 cd client
 npm install
